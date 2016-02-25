@@ -25,6 +25,7 @@ What I can say is that it works on Linux.
  * change firmware to allow reading of the flash (this requires finding the right position and flip a few bytes)
  * flash modified firmware
  * read flash
+ * create cli user interface
 
 
 ## Drinks / Donations
